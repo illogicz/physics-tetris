@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Physics Tetris",
+  "description": "A Tetris-inspired game where landed pieces become physically simulated rigid bodies. Watch the tower wobble, shift, and collapse based on your placements.",
+  "requestFramePermissions": []
+}
